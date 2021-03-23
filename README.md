@@ -8,7 +8,7 @@ file we created two functions to be able to do this.
 ## Results
 To perform a search, you would just enter the required information and then press enter for each filter desired. For example, here is a
 filter based on a date of '1/1/2010', the state being 'ca', and the shape being 'light':
-![](Filter.png)
+![](Filter.PNG)
 
 ## Summary
 
